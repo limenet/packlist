@@ -1,5 +1,5 @@
 # packlist
 
-For a list of ideas, see #1
+**This is work in progress.**
 
-This is work in progress.
+For a list of ideas, see limenet/packlist#1

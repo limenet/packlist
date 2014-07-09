@@ -2,4 +2,4 @@
 
 **This is work in progress.**
 
-For a list of ideas, see limenet/packlist#1
+For a list of ideas, see [#1](https://github.com/limenet/packlist/issues/1).
